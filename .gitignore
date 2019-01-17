@@ -41,3 +41,4 @@ nbproject/*
 
 provision.sh
 Vagrantfile
+.vagrant/
